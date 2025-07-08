@@ -87,9 +87,7 @@ These show that the model effectively learned to distinguish between preferred a
 
 ## 📈 Visualizations
 
-The following visualizations were generated from the training report (via [Weights & Biases dashboard](https://wandb.ai/zaynhyder15)):
-
-![Reward Margins](https://wandb.ai/zaynhyder15/huggingface/reports/Preference-Optimization-report--VmlldzoxMzQxNjY3OQ/images/1.png)
+The following visualizations were generated from the training report (via [Weights & Biases dashboard](https://api.wandb.ai/links/zaynhyder15-brandenburgische-technische-universit-t-cott/lhwdtu0l)):
 
 - **Reward Margin Improvement**: Model's ability to prefer better responses improved steadily.
 - **Loss Curves**: NLL and preference loss show gradual convergence.
