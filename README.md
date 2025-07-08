@@ -4,7 +4,7 @@
 
 This project investigates **preference optimization techniques** for **Vision-Language Models (VLMs)** using **Odds Ratio Preference Optimization (ORPO)**. It explores how human-like preferences can be instilled in multi-modal AI systems to align their outputs with desirable behaviors, such as accuracy and informativeness.
 
-We use ORPO to train and evaluate VLMs on prompt-response datasets, comparing chosen vs. rejected outputs. Our experiments are tracked using Weights & Biases (W&B), highlighting key trade-offs and performance gains in response quality.
+We use ORPO to train and evaluate VLMs on prompt-response datasets, comparing chosen vs. rejected outputs. Our experiments are tracked using Weights & Biases (W&B), highlighting key trade-offs and performance gains in response quality. 
 
 ---
 
