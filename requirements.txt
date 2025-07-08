@@ -4,3 +4,9 @@ torch
 trl
 fsspec
 wandb
+gradio
+quanto
+optimum-quanto
+numpy 
+pandas 
+pillow
