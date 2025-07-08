@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+trl
+fsspec
+wandb
